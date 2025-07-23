@@ -1,0 +1,44 @@
+{
+  "bio": "Dynamic Data Analyst skilled in SQL, Python, Excel, and Power BI with strong communication abilities. Leverages Generative AI to adapt quickly to new tools and deliver actionable insights. Collaborative and focused on driving data-driven strategies.",
+  "projects": [
+    {
+      "title": "Walmart's Retail Insights Optimization",
+      "description": "Analyzed sales growth, customer segmentation, and product performance using MySQL. Delivered actionable insights through SQL-driven analysis.",
+      "link": "https://training-uploads.internshala.com/sql-ds-v3/uploads/projects/v_1/4761511/3g2w25qvl2g-2179408.zip"
+    },
+    {
+      "title": "Airline Performance Analysis (Power BI)",
+      "description": "Built dashboards with flight performance metrics using DAX, Power Query, and Power BI Service.",
+      "link": "https://training-uploads.internshala.com/power-bi-ds-v3/uploads/projects/v_1/4761509/hbm2bssgz3r-1905060.zip"
+    },
+    {
+      "title": "KPMG Data Analysis (Excel)",
+      "description": "Performed segmentation and analyzed trends to derive CLV insights and boost revenue.",
+      "link": "https://training-uploads.internshala.com/ms-excel-ds-v3/uploads/projects/v_1/4761508/exvtr028knc-15627193.zip"
+    },
+    {
+      "title": "JP Morgan Legal Doc Classification",
+      "description": "Automated classification of legal documents using CRISP-DM, saving 360,000+ hours annually.",
+      "link": "https://training-uploads.internshala.com/data-analytics-intro-ds-v3/uploads/projects/v_1/4761507/3ahetbgofk_-133842.zip"
+    }
+  ],
+  "skills": [
+    "MS-Excel",
+    "Power BI",
+    "MySQL",
+    "Python",
+    "Pandas",
+    "NumPy",
+    "Matplotlib",
+    "Seaborn",
+    "scikit-learn",
+    "Plotly",
+    "Selenium",
+    "BeautifulSoup",
+    "NLP",
+    "Deep Learning",
+    "Git",
+    "GitHub",
+    "Streamlit"
+  ]
+}
